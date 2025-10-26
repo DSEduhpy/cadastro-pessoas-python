@@ -1,3 +1,18 @@
-Eduardo de Castro;21
-Maria Clara Castro;18
-
+Lucas Fernandes;25
+Ana Júlia Ribeiro;19
+Pedro Henrique Alves;23
+Beatriz Moura;20
+João Vitor Martins;27
+Isabela Costa;22
+Matheus Oliveira;24
+Larissa Pereira;26
+Rafael Gonçalves;28
+Camila Souza;21
+Gabriel Nascimento;19
+Letícia Duarte;25
+Felipe Araújo;20
+Sofia Lima;23
+Thiago Moreira;22
+Carolina Rocha;24
+Bruno Almeida;26
+Mariana Figueiredo;27
